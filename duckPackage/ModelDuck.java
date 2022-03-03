@@ -1,3 +1,8 @@
+package duckPackage;
+
+import flyPackage.FlyNoWay;
+import quackPackage.Quack;
+
 public class ModelDuck extends Duck{
     public ModelDuck() {
         flyBehavior = new FlyNoWay();
@@ -7,3 +12,4 @@ public class ModelDuck extends Duck{
         System.out.println("I`m a model duck");
     }
 }
+

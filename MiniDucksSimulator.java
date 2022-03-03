@@ -1,3 +1,8 @@
+import duckPackage.Duck;
+import duckPackage.MallardDuck;
+import duckPackage.ModelDuck;
+import flyPackage.FlyRocketPowered;
+
 public class MiniDucksSimulator {
     public static void main(String[] args) {
         Duck mallard = new MallardDuck();

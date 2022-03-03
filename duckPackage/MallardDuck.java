@@ -1,3 +1,7 @@
+package duckPackage;
+
+import flyPackage.FlyWithWings;
+import quackPackage.Quack;
 
 public class MallardDuck extends Duck{
 
