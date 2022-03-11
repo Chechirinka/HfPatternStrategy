@@ -1,4 +1,4 @@
-package flyPackage;
+package fly;
 
 
 public class FlyRocketPowered implements FlyBehavior{

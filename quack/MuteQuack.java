@@ -1,4 +1,4 @@
-package quackPackage;
+package quack;
 
 public class MuteQuack implements QuackBehavior{
 

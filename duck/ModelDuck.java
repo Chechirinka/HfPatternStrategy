@@ -1,7 +1,7 @@
-package duckPackage;
+package duck;
 
-import flyPackage.FlyNoWay;
-import quackPackage.Quack;
+import fly.FlyNoWay;
+import quack.Quack;
 
 public class ModelDuck extends Duck{
     public ModelDuck() {
